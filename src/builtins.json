@@ -1,1 +1,15 @@
-[]
+[
+  { "addon": "bare-net" },
+  { "addon": "bare-utils" },
+  { "addon": "bare-fs" },
+  { "addon": "bare-process" },
+  { "addon": "bare-crypto" },
+  { "addon": "bare-module" },
+  { "addon": "bare-path" },
+  { "addon": "bare-querystring" },
+  { "addon": "barely-colours" },
+  { "addon": "bare-subprocess" },
+  { "addon": "bare-node-path" },
+  { "addon": "bare-node-querystring" },
+  { "addon": "bare-ansi-escapes" }
+]

@@ -11,7 +11,7 @@ project(${name} C)
 
 add_bare_bundle(
   ${name}_bundle
-  ENTRY src/main.js
+  ENTRY src/bin/holesail.mjs
   OUT src/main.bundle.h
   BUILTINS src/builtins.json
 )
